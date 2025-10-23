@@ -188,12 +188,12 @@ This comprehensive case study examines Oracle Cloud Infrastructure's security ar
 - 🛡️ IoT honeypot development and deception-based security
 - 📝 Academic research in cybersecurity vulnerabilities
 - 🎯 Currently pursuing CompTIA Security+ certification
+- 🎯 Completed Google Cybersecurity certificate
+- 🎯 Completed Google IT Professional certificate
 
 **Connect:**
 - 📧 [pakagronglebel@gmail.com](mailto:pakagronglebel@gmail.com)
-- 💼 [LinkedIn Profile](https://linkedin.com/in/pakagrong-lebel)
-- 🔒 [Security Research Portfolio](https://github.com/pakagrong)
-
+- 💼 [LinkedIn Profile](https://linkedin.com/in/pakagronglb)
 ---
 
 ## 📄 License & Citation
